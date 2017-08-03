@@ -1,2 +1,3 @@
 # Chrome-Extension
-Chrome Extension using Time Doctor web API for showing user data
+
+Integrating [Time Doctor](https://timedoctor.com) web API using chrome extension for showing user data.
